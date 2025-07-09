@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 [![fellow-me's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellow-me&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellow-me)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
