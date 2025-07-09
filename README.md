@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fellow-me&show_icons=true&theme=ambient_gradient" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellow-me&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=fellow-me&show_icons=true&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellow-me&layout=compact" />
+</div>
+
 
 
 
