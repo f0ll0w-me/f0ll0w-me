@@ -29,6 +29,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fellow-me&show_icons=true&theme=ambient_gradient" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellow-me&layout=compact&theme=ambient_gradient" />
 </div>
