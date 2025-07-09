@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently pursuing a Master's degree in Computer Science at GDUT, Guangzhou, China
-- 🧠 Interests: **backend development**、**cloud computing scheduling**
+- 🧠 Interests: **backend development**, **cloud computing scheduling**
 - 📫 Email: `qiujie1019@gmail.com`
 
 ---
