@@ -10,13 +10,16 @@
   <a href="https://github.com/fellow-me">
     <img src="https://komarev.com/ghpvc/?username=fellow-me&label=Profile+Views" alt="fellow-me" />
   </a>
+    <a href="https://github.com/fellow-me?tab=followers">
+    <img src="https://img.shields.io/github/followers/fellow-me?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently studying a cs master degree in gdut, guangzhou, China
+- 🔭 Currently pursuing a Master's degree in Computer Science at GDUT, Guangzhou, China
 - 🧠 Interests: **backend development**、**cloud computing scheduling**
 - 📫 Email: `qiujie1019@gmail.com`
 
