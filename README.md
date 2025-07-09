@@ -16,9 +16,17 @@ Here are some ideas to get you started:
 -->
 
 
-[![fellow-me's GitHub stats](https://github-readme-stats.vercel.app/api?username=fellow-me&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats) 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fellow-me&show_icons=true&theme=ambient_gradient" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellow-me&layout=compact" />
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellow-me&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
