@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jie Qiu (fellow-me)</h1>
 <p align="center">
-  <em>A cloud computing & workflow scheduling enthusiast</em>
+  <em>A web development enthusiast</em>
 </p>
 
 <p align="center">
