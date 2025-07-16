@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Master’s student at the School of Computer Science, Guangdong University of Technology, Guangzhou, China (Sep 2023 – Present)
+- 🔭 Master’s student at the School of Computer Science, Guangdong University of Technology, Guangzhou, China, since Sep 2023
 - 🧠 Interests: **backend development**, **cloud computing scheduling**
 - 📫 Email: `qiujie1019@gmail.com`
 
