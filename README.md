@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jie Qiu (f0ll0w-me)</h1>
+<h1 align="center">Hi 👋, I'm Jie Qiu (fo11ow-me)</h1>
 <p align="center">
   <em>A web development enthusiast</em>
 </p>
@@ -7,11 +7,11 @@
   <a href="mailto:qiujie1019@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue" alt="Email" />
   </a>
-  <a href="https://github.com/f0ll0w-me">
-    <img src="https://komarev.com/ghpvc/?username=f0ll0w-me&label=Profile+Views" alt="f0ll0w-me" />
+  <a href="https://github.com/fo11ow-me">
+    <img src="https://komarev.com/ghpvc/?username=fo11ow-me&label=Profile+Views" alt="fo11ow-me" />
   </a>
-    <a href="https://github.com/f0ll0w-me?tab=followers">
-    <img src="https://img.shields.io/github/followers/f0ll0w-me?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
+    <a href="https://github.com/fo11ow-me?tab=followers">
+    <img src="https://img.shields.io/github/followers/fo11ow-me?label=GitHub%20Followers&style=flat-square" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=f0ll0w-me&show_icons=true&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fo11ow-me&show_icons=true&theme=ambient_gradient" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0ll0w-me&layout=compact&theme=ambient_gradient" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fo11ow-me&layout=compact&theme=ambient_gradient" />
 </div>
